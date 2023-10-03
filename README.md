@@ -17,3 +17,7 @@ This repository has the code to solve the range related with Data Workshop - LID
 
 ## Scenario 4: Equal ranges
 - Paramneters: 
+
+## Scenario 5: 
+- Parameters: 
+- Result: 
